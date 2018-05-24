@@ -29,3 +29,5 @@ li {
 li:nth-child(odd) {
     background: #600;
 }
+
+/* TODO: Make the mobile UI a bit friendlier. As it is, the user has a hard time scrolling. */

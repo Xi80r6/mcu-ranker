@@ -4,3 +4,6 @@ if (typeof Sortable !== "undefined") {
     console.log(list);
     var sortable = Sortable.create(list);
 }
+
+// TODO: update URL with selections
+// TODO: allow users to remove selections
